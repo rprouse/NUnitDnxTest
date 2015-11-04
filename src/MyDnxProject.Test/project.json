@@ -6,9 +6,10 @@
   "projectUrl": "",
   "licenseUrl": "",
 
-  "dependencies": {
-    "MyDnxProject": "1.0.0-*"
-  },
+    "dependencies": {
+        "MyDnxProject": "1.0.0-*",
+        "NUnitLite": "3.0.0-rc"
+    },
 
   "commands": {
     "MyDnxProject.Test": "MyDnxProject.Test"
