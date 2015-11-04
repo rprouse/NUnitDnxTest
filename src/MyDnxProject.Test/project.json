@@ -12,7 +12,7 @@
     },
 
   "commands": {
-    "MyDnxProject.Test": "MyDnxProject.Test"
+    "test": "MyDnxProject.Test"
   },
 
   "frameworks": {
